@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanan Ahmad</h1>
-<h3 align="center">About 😎 <br> A Computer Engineer who loves to write code and discover new tech. Moreover, <br> I am a Full Stack Javascript Developer having experience in cross platform mobile app development and web development. I’m currently learning Atomic Pattern for React I’m looking to collaborate on Open Source Projects I’m currently learning Typescript and Next Js <br> Technologies 🚀 Data Science Mobile application development using React Native Javascript Competitive Programming System Design</h3>
+<h3 align="top-left">About 😎 <br> A Computer Engineer who loves to write code and discover new tech. Moreover, <br> I am a Full Stack Javascript Developer having experience in cross platform mobile app development and web development. I’m currently learning Atomic Pattern for React I’m looking to collaborate on Open Source Projects I’m currently learning Typescript and Next Js <br> Technologies 🚀 Data Science <br> Mobile App Development <br> Web Development <br> Javascript Competitive Programming <br> System Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithhanan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithhanan" /> </p>
 
@@ -10,16 +10,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hanan-ahmad-2048b0179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanan-ahmad-2048b0179/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:
-  <br>
-  Data Science <br>
-  Mobile Application Development <br>
-  Web Development <br>
-  Javascript <br>
-  Competitive Programming <br>
-  System Design <br>
-
-</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithhanan&show_icons=true&locale=en&layout=compact" alt="codewithhanan" /></p>
