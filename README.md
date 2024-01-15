@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanan Ahmad</h1>
 <h3 align="top-left">About 😎 <br><br> An Enthusiastic Software Engineer with a demonstrated history of excellence in crafting Web & Mobile Applications, as well as proficiency in FullStack Development.
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithhanan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithhanan" /> </p>
 
