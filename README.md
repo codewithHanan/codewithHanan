@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanan Ahmad</h1>
-<h3 align="top-left">About 😎 <br><br> A Computer Engineer who loves to write code and discover new tech. Moreover, <br> I am a Full Stack Javascript Developer having experience in cross platform mobile app development and web development. I’m currently learning Atomic Pattern for React I’m looking to collaborate on Open Source Projects I’m currently learning Typescript and Next Js <br> Technologies 🚀<br> Data Science <br> Mobile App Development <br> Web Development <br> Javascript Competitive Programming <br> System Design</h3>
+<h3 align="top-left">About 😎 <br><br> An Enthusiastic Software Engineer with a demonstrated history of excellence in crafting Web & Mobile Applications, as well as proficiency in FullStack Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithhanan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithhanan" /> </p>
 
